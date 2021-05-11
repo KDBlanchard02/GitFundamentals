@@ -13,4 +13,4 @@ You can specify tracking directories with `git add DirectoryName`.
 - [Git Add Documentation](https://git-scm.com/docs/git-add)
 
 ---
-[Back to home](../README.MD)
+[Back to home](../README.md)
